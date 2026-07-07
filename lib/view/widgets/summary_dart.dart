@@ -60,7 +60,7 @@ class SummaryCard extends StatelessWidget {
                       ),
                       child: Icon(
                         icon,
-                        size: 20,
+                        size: 15,
                         color: Colors.white,
                       ),
                     ),
@@ -79,7 +79,7 @@ class SummaryCard extends StatelessWidget {
                 Text(
                   title,
                   style: TextStyle(
-                    fontSize: 10,
+                    fontSize: 8,
                     fontWeight: FontWeight.w500,
                     color: Colors.white.withOpacity(0.9),
                   ),
